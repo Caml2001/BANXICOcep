@@ -1,0 +1,282 @@
+[
+    {
+        "fecha_input": "2024-12-03",
+        "clave_rastreo_input": "MBAN01002403120095856234",
+        "emisor_input": "40012",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "200",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:24:56"
+    },
+    {
+        "fecha_input": "2024-04-15",
+        "clave_rastreo_input": "8846CAP3202404152989817714",
+        "emisor_input": "40072",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "10294",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:25:01"
+    },
+    {
+        "fecha_input": "2024-04-30",
+        "clave_rastreo_input": "8846APR1202404303026721997",
+        "emisor_input": "40072",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "10294",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:25:07"
+    },
+    {
+        "fecha_input": "2024-05-15",
+        "clave_rastreo_input": "8846APR1202405153064176737",
+        "emisor_input": "40072",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "10294",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:25:13"
+    },
+    {
+        "fecha_input": "2024-05-31",
+        "clave_rastreo_input": "8846APA7202405313102279572",
+        "emisor_input": "40072",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "10270",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:25:18"
+    },
+    {
+        "fecha_input": "2024-01-06",
+        "clave_rastreo_input": "MBAN01002406030078659281",
+        "emisor_input": "40012",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "5000",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:25:24"
+    },
+    {
+        "fecha_input": "2024-06-14",
+        "clave_rastreo_input": "8846CAP3202406143137106403",
+        "emisor_input": "40072",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "10294",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:25:29"
+    },
+    {
+        "fecha_input": "2024-06-28",
+        "clave_rastreo_input": "8846APR1202406283173591961",
+        "emisor_input": "40072",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "10294",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:25:35"
+    },
+    {
+        "fecha_input": "2024-02-07",
+        "clave_rastreo_input": "MBAN01002407030092898033",
+        "emisor_input": "40012",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "5000",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:25:40"
+    },
+    {
+        "fecha_input": "2024-07-15",
+        "clave_rastreo_input": "8846CAP3202407153214999090",
+        "emisor_input": "40072",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "10294.0",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:25:46"
+    },
+    {
+        "fecha_input": "2024-07-31",
+        "clave_rastreo_input": "8846APR2202407313254952931",
+        "emisor_input": "40072",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "10271.0",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:25:52"
+    },
+    {
+        "fecha_input": "2024-03-08",
+        "clave_rastreo_input": "MBAN01002408050058425296",
+        "emisor_input": "40012",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "5000.0",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:25:58"
+    },
+    {
+        "fecha_input": "2024-08-15",
+        "clave_rastreo_input": "8846APR2202408153292713488",
+        "emisor_input": "40072",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "10294.0",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:26:04"
+    },
+    {
+        "fecha_input": "2024-12-03",
+        "clave_rastreo_input": "MBAN01002403120095856234",
+        "emisor_input": "40012",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "200",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:36:13"
+    },
+    {
+        "fecha_input": "2024-04-15",
+        "clave_rastreo_input": "8846CAP3202404152989817714",
+        "emisor_input": "40072",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "10294",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:36:19"
+    },
+    {
+        "fecha_input": "2024-01-06",
+        "clave_rastreo_input": "MBAN01002406030078659281",
+        "emisor_input": "40012",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "5000",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:36:42"
+    },
+    {
+        "fecha_input": "2024-06-14",
+        "clave_rastreo_input": "8846CAP3202406143137106403",
+        "emisor_input": "40072",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "10294",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:36:47"
+    },
+    {
+        "fecha_input": "2024-06-28",
+        "clave_rastreo_input": "8846APR1202406283173591961",
+        "emisor_input": "40072",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "10294",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:36:52"
+    },
+    {
+        "fecha_input": "2024-02-07",
+        "clave_rastreo_input": "MBAN01002407030092898033",
+        "emisor_input": "40012",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "5000",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:36:58"
+    },
+    {
+        "fecha_input": "2024-07-15",
+        "clave_rastreo_input": "8846CAP3202407153214999090",
+        "emisor_input": "40072",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "10294.0",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:37:03"
+    },
+    {
+        "fecha_input": "2024-07-31",
+        "clave_rastreo_input": "8846APR2202407313254952931",
+        "emisor_input": "40072",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "10271.0",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:37:09"
+    },
+    {
+        "fecha_input": "2024-03-08",
+        "clave_rastreo_input": "MBAN01002408050058425296",
+        "emisor_input": "40012",
+        "receptor_input": "90646",
+        "cuenta_input": "646680177602733217",
+        "monto_input": "5000.0",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:37:14"
+    },
+    {
+        "fecha_input": "2024-04-30",
+        "clave_rastreo_input": "8846APR1202404303026722065",
+        "emisor_input": "40072",
+        "receptor_input": "90646",
+        "cuenta_input": "646180177602676638",
+        "monto_input": "10294.0",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:41:03"
+    },
+    {
+        "fecha_input": "2024-05-15",
+        "clave_rastreo_input": "8846APR1202405153064176783",
+        "emisor_input": "40072",
+        "receptor_input": "90646",
+        "cuenta_input": "646180177602676638",
+        "monto_input": "10294.0",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:41:08"
+    },
+    {
+        "fecha_input": "2024-05-31",
+        "clave_rastreo_input": "8846APA7202405313102279547",
+        "emisor_input": "40072",
+        "receptor_input": "90646",
+        "cuenta_input": "646180177602676638",
+        "monto_input": "10270.0",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:41:14"
+    },
+    {
+        "fecha_input": "2024-06-14",
+        "clave_rastreo_input": "8846APAB202406143137106349",
+        "emisor_input": "40072",
+        "receptor_input": "90646",
+        "cuenta_input": "646180177602676638",
+        "monto_input": "10294.0",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:41:20"
+    },
+    {
+        "fecha_input": "2024-06-28",
+        "clave_rastreo_input": "8846APR1202406283173592165",
+        "emisor_input": "40072",
+        "receptor_input": "90646",
+        "cuenta_input": "646180177602676638",
+        "monto_input": "10294.0",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:41:25"
+    },
+    {
+        "fecha_input": "2024-03-07",
+        "clave_rastreo_input": "8846APR1202407033187127391",
+        "emisor_input": "40072",
+        "receptor_input": "90646",
+        "cuenta_input": "646180177602676638",
+        "monto_input": "165319.0",
+        "fecha_consulta": "2024-10-31",
+        "hora_consulta": "19:41:31"
+    }
+]
